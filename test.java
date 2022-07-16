@@ -1,3 +1,8 @@
 class main{
-	System.out.println("Welcome to DEVOPS");
+
+	public static void main(String args[]){
+
+		System.out.println("Welcome To DEVOPS");
+	}
+
 }
